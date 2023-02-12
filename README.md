@@ -1,4 +1,4 @@
-# EnumConstants
+# FunctionsAttributes
 
 [![license](https://img.shields.io/github/license/nagybalint001/functions-attributes.svg?maxAge=2592000)](https://github.com/nagybalint001/functions-attributes/blob/main/LICENSE) [![NuGet](https://img.shields.io/nuget/v/FunctionsAttributes.svg?maxAge=2592000)](https://www.nuget.org/packages/FunctionsAttributes/) ![downloads](https://img.shields.io/nuget/dt/FunctionsAttributes)
 
